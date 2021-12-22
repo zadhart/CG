@@ -22,7 +22,7 @@ int ano = 0;
 
 int dia = 0;
 
-void sozzzinho(){
+void solzinho(){
 
     glPushMatrix();
 
@@ -132,7 +132,7 @@ void planetaLua(){
 
 void sisteminha()
 {
-    sozzzinho();
+    solzinho();
 
     planetaLua();
 
